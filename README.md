@@ -24,5 +24,6 @@ Analytics & Reporting – Query and visualize data insights.
 
 🙌 Acknowledgements
 
-This project was guided by Data with Baraa
- An excellent resource for learning data engineering and warehousing concepts step by step.
+This project was guided by Data with Baraa.
+
+An excellent resource for learning data engineering and warehousing concepts step by step.
